@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_IMC.Paginas.Home"
+             Title="Home">
+    <VerticalStackLayout>
+        <Label 
+            Text="O que é o IMC ?"
+            FontSize="20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label Text="O IMC é uma fórmula utilizada por vários profissionais de saúde, incluindo médicos, nutricionistas, profissionais de educação física e enfermeiros, para saber, de uma forma rápida, se a pessoa está com o peso adequado ou se precisa ganhar ou perder peso."
+               Padding="15"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center"/>
+
+        <Label Text="O cálculo do IMC é feito usando a seguinte fórmula: peso (kg) ÷ (altura x altura) (m)."
+               VerticalOptions="Center" 
+               HorizontalOptions="Center"
+               Padding="12"
+               FontAttributes="Bold"/>
+
+        <Label Text="Para que serve o IMC ?"
+               FontSize="20"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"/>
+
+        <Label Text="Essa informação pode ajudar na avaliação do risco de desenvolver certas condições de saúde relacionadas ao peso, como doenças cardiovasculares, diabetes tipo 2 e problemas articulares. No entanto, é importante ressaltar que o IMC é apenas uma medida inicial e não considera outros fatores importantes, como composição corporal, massa muscular e distribuição de gordura. Portanto, ele não deve ser utilizado isoladamente para fazer diagnósticos médicos, mas sim como parte de uma avaliação mais abrangente da saúde."
+               Padding="15"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>

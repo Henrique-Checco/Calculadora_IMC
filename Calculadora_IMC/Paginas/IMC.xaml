@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_IMC.Paginas.IMC"
+             Title="IMC">
+    <VerticalStackLayout Padding="15">
+        <Label Text="Informe seu peso"/>
+        <Entry Placeholder="Peso"
+               Keyboard="Numeric"
+               x:Name="pesoEntry"/>
+
+
+        <Label Text="Informe sua altura"/>
+        <Entry Placeholder="Altura"
+               Keyboard="Numeric"
+               x:Name="alturaEntry"/>
+
+        <Button Text="Calcular"
+                Clicked="CalculateIMC_Clicked"/>
+
+        <Label x:Name="resultadoLabel"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center"
+               Padding="20"/>
+
+        <TableView Intent="Menu">
+            <TableRoot>
+                <TableSection Title="Indice de Massa Corporal">
+                    <TextCell TextColor="Black" Text="Abaixo de 18,50 = Abaixo do Peso"></TextCell>
+                    <TextCell TextColor="Black" Text="Entre 18,60 e 24,99 = Peso Ideal"></TextCell>
+                    <TextCell TextColor="Black" Text="Entre 25 e 29,99 = Levemente acima do Peso"></TextCell>
+                    <TextCell TextColor="Black" Text="Entre 30 e 34,99 = Obesidade Grau I"></TextCell>
+                    <TextCell TextColor="Black" Text="Entre 35 e 39,99 = Obesidade Grau II"></TextCell>
+                    <TextCell TextColor="Black" Text="Acima de 40 = Obesidade Grau III"></TextCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </VerticalStackLayout>
+</ContentPage>

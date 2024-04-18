@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_IMC.Paginas.Sobre"
+             Title="Sobre">
+    <VerticalStackLayout>
+        <Label 
+            Text="Projeto APP desenvolvido através do Visual Studio .NET MAUI para o curso de desenvolvimento de sistemas do SENAI de Brotas."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            Padding="10"
+            FontSize="15"/>
+        <Label Text="Desenvolvimento por Henrique Checco"
+               Padding="10"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="15"/>
+
+        <Image Source="circleuser.svg"
+               HeightRequest="155"
+                Aspect="AspectFit"/>
+    </VerticalStackLayout>
+</ContentPage>
