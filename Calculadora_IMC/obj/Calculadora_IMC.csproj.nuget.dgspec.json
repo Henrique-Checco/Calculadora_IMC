@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAI3EM\\Documents\\Maui\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj": {}
+    "C:\\Users\\SENAI3EM\\Documents\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAI3EM\\Documents\\Maui\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj": {
+    "C:\\Users\\SENAI3EM\\Documents\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAI3EM\\Documents\\Maui\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj",
+        "projectUniqueName": "C:\\Users\\SENAI3EM\\Documents\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj",
         "projectName": "Calculadora_IMC",
-        "projectPath": "C:\\Users\\SENAI3EM\\Documents\\Maui\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj",
+        "projectPath": "C:\\Users\\SENAI3EM\\Documents\\Calculadora_IMC\\Calculadora_IMC\\Calculadora_IMC.csproj",
         "packagesPath": "C:\\Users\\SENAI3EM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAI3EM\\Documents\\Maui\\Calculadora_IMC\\Calculadora_IMC\\obj\\",
+        "outputPath": "C:\\Users\\SENAI3EM\\Documents\\Calculadora_IMC\\Calculadora_IMC\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -67,11 +67,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -110,11 +110,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -153,11 +153,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -197,11 +197,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.40, )"
             }
           },
           "imports": [

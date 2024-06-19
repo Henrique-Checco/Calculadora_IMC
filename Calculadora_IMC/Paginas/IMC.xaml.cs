@@ -9,9 +9,10 @@ public partial class IMC : ContentPage
 
     private void CalculateIMC_Clicked(object sender, EventArgs e)
     {
-        if (double.TryParse(alturaEntry.Text, out double altura) &&
+        if (double.TryParse(alturaEntry.Text.Replace(",","."), out double altura) &&
             double.TryParse(pesoEntry.Text, out double peso))
         {
+            altura /= 100;
             double calcular = Calculate(altura, peso);
             resultadoLabel.Text = $"Seu IMC é: {calcular:F2}";
         }

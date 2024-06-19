@@ -12,53 +12,53 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculadora_IMC
-build_property.ProjectDir = C:\Users\SENAI3EM\Documents\Maui\Calculadora_IMC\Calculadora_IMC\
+build_property.ProjectDir = C:\Users\SENAI3EM\Documents\Calculadora_IMC\Calculadora_IMC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/App.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/AppShell.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/MainPage.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/Paginas/Home.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/Paginas/Home.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.Paginas.Home.xaml
 build_metadata.AdditionalFiles.TargetPath = Paginas\Home.xaml
 build_metadata.AdditionalFiles.RelativePath = Paginas\Home.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/Paginas/IMC.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/Paginas/IMC.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.Paginas.IMC.xaml
 build_metadata.AdditionalFiles.TargetPath = Paginas\IMC.xaml
 build_metadata.AdditionalFiles.RelativePath = Paginas\IMC.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/Paginas/Sobre.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/Paginas/Sobre.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.Paginas.Sobre.xaml
 build_metadata.AdditionalFiles.TargetPath = Paginas\Sobre.xaml
 build_metadata.AdditionalFiles.RelativePath = Paginas\Sobre.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/Resources/Styles/Colors.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/SENAI3EM/Documents/Maui/Calculadora_IMC/Calculadora_IMC/Resources/Styles/Styles.xaml]
+[C:/Users/SENAI3EM/Documents/Calculadora_IMC/Calculadora_IMC/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculadora_IMC.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
